@@ -1,5 +1,3 @@
----
-
 # Rock-Paper-Scissors Game
 
 A simple text-based Rock-Paper-Scissors game with multiple modes and a scoreboard. Players can compete against each other, face off against a computer, or participate in a tournament mode with a variety of players.
